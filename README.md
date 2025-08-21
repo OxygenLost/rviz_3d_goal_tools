@@ -9,6 +9,8 @@ RViz 3D Goal Tools is a ROS package that provides enhanced visualization and int
 
 ### Features
 - Interactive 3D goal setting in RViz
+- Support for 3D goal points setting
+- Support for 3D pose initialization
 - Customizable visualization markers
 - Support for position and orientation control
 - Easy integration with existing ROS navigation stacks
@@ -54,6 +56,8 @@ RViz 3D目标工具是一个ROS软件包，为RViz提供增强的3D目标可视�
 
 ### 特性
 - 在RViz中交互式设置3D目标
+- 支持3D目标点设置
+- 支持3D位姿初始化
 - 可自定义的可视化标记
 - 支持位置和方向控制
 - 易于与现有ROS导航功能集成

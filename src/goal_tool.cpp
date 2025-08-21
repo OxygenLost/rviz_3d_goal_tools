@@ -107,7 +107,7 @@ void Goal3DTool::initializeProperties()
   // 创建话题属性
   topic_property_ = new StringProperty(
     "Topic", 
-    "goal_3d",
+    "goal",
     "发布3D导航目标的话题名称",
     getPropertyContainer(), 
     SLOT(updateTopic()), 
